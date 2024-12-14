@@ -1,0 +1,27 @@
+/* Import 'Ed Lavonia' font */
+@import url('https://fonts.googleapis.com/css2?family=Ed+Lavonia&display=swap');
+
+/* Center the body content (like the header) */
+body {
+    background-color: #f5f5dc; /* Creme color */
+    text-align: center; /* Centers text horizontally */
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Style for the h1 header */
+h1 {
+    font-size: 100px;
+    color: black; /* Set text color to black */
+    font-family: 'Ed Lavonia', sans-serif; /* Set font to 'Ed Lavonia' */
+    margin: 0; /* Optional: remove default margin */
+}
+
+
+/* Additional styling for images or other content */
+.headshot {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
